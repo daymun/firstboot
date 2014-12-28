@@ -3,17 +3,17 @@
 RUBY_VERSION=2.1.5
 
 BREW_APPS=(
-  git
   bash-completion
-  postgresql
-  postgis
-  redis
-  rbenv
-  ruby-build
-  python
-  node
+  git
   imagemagick
   mackup
+  node
+  postgis
+  postgresql
+  python
+  rbenv
+  redis
+  ruby-build
 )
 
 CASK_APPS=(
