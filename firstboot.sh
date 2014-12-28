@@ -10,6 +10,8 @@ BREW_APPS=(
   redis
   rbenv
   ruby-build
+  python
+  node
   imagemagick
   mackup
 )
