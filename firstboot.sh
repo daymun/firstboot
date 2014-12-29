@@ -68,6 +68,7 @@ brew cask install ${CASK_FONTS[@]}
 echo "=> [6/7] Installing Ruby"
 rbenv install $RUBY_VERSION
 rbenv global $RUBY_VERSION
+eval "$(rbenv init -)"
 
 echo "=> [7/7] Installing Rails"
 gem install rails
