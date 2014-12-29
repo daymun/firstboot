@@ -41,13 +41,14 @@ Add internet accounts to enable contact/calendar sync, chat, etc.
 
 | Pane            | Option                                        |
 | :---------------|:----------------------------------------------|
-| Dock            | Decrease size                                 |
-|                 | Position on screen: Left                      |
+| Dock            | Position on screen: Left                      |
+|                 | Automatically hide and show the Dock: Enable  |
 | Mission Control | Mission Control: Remove shortcut              |
 |                 | Application windows: Remove shortcut          |
 | Keyboard        | Key Repeat: Max                               |
 |                 | Delay Until Repeat: One less than max         |
 | Trackpad        | Tap to click: Enable                          |
+|                 | Three finger drag: Enable                     |
 |                 | App Exposé: Enable                            |
 | Sound           | Alert sound: Morse                            |
 |                 | Show volume in menu bar: Enable               |
