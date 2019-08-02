@@ -2,6 +2,7 @@ firstboot
 =========
 
 Set up a new Mac for use as a development machine.
+https://github.com/daymun/devinwadsworth.com/commit/50db3081a67aef0cd343532da5bafcff3f046657
 
 ## Assumptions
 
